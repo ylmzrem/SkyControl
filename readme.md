@@ -105,5 +105,4 @@ gcc main.c control_tower.c flight_queue.c operation_history.c flight_records.c -
 
 * **Course:** Data Structures & Algorithms
 * **Semester:** Spring 2025–2026
-* **Developer:** İrem Yılmaz (`2204012301`)
-* **Instructor:** Doç. Dr. Mustafa Cem Kasapbaşı
+* **Developer:** İrem Yılmaz 
